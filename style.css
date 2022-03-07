@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Mea+Culpa&family=Moon+Dance&family=Quicksand:wght@500&family=Roboto+Slab:wght@300;500&family=Roboto:ital@0;1&display=swap');
+*{
+	box-sizing: border-box;
+}
+body{
+
+	font-family: 'Roboto', sans-serif;
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+	overflow: hidden;
+}
+.container{
+	display: flex;
+}
